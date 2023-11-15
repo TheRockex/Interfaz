@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="customBackgroundColor">#169EEF</color>
+    <color name="customTextColor">#FFFFFF</color>
+    <color name="morado">#68006b</color>
+    <color name="amarillo">#ffef00</color>
+    <color name="azul">#008dcf</color>
+    <color name="lightmorado">#9f2e9e</color>
+    <color name="colorDarkOverlay">#80000000</color>
+
+</resources>
